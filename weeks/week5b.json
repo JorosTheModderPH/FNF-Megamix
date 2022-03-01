@@ -1,0 +1,49 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "easier,standard,flip",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Cocoa B",
+			"parents-b",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Eggnog B",
+			"parents-b",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Winter Horrorland B",
+			"monster-b",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"parents",
+		"bf",
+		"gf"
+	],
+	"weekName": "Week 5 B"
+}

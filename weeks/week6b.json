@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Senpai B",
+			"senpai-pixel-b",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Roses B",
+			"senpai-pixel-b",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Thorns B",
+			"spirit-pixel-b",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "easier,standard,flip",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Your New Week",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

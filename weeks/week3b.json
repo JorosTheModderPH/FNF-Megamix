@@ -1,0 +1,49 @@
+{
+	"songs": [
+		[
+			"Pico B",
+			"pico-b",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Philly B",
+			"pico-b",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Blammed B",
+			"pico-b",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"difficulties": "Easier,Standard,Flip",
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"storyName": "Drop Out",
+	"weekName": "Week 3 B",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
