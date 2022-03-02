@@ -11,9 +11,9 @@ You can request mods.
 
 Mod List 1.0 :
 
- * B Side
- * Whitty
- * Soft Mod
+ * B Side ([Ported](https://gamebanana.com/mods/42724) by JorosTheModder(It is obvious who made the FNF megamix), Mod by [Rozebud](https://gamebanana.com/members/1767623]))
+ * Whitty ([Ported](https://gamebanana.com/mods/339253) by [Kat587](https://gamebanana.com/members/1803574), Mod by [KadeDeveloper](https://gamebanana.com/members/1774971))
+ * Soft Mod ([Ported](https://gamebanana.com/download/351227) by [BUBCRAFT19](https://gamebanana.com/members/2020923), Mod by [ShinyTama](https://gamebanana.com/members/1968968))
 
  (-) Hex Mod in progress
 
