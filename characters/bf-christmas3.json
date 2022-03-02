@@ -1,0 +1,101 @@
+{
+   "animations" : [
+      {
+         "anim" : "bigYell",
+         "fps" : 24,
+         "indices" : [],
+         "loop" : true,
+         "name" : "BF SCREAMING INSIDE",
+         "offsets" : [ -10, -20 ]
+      },
+      {
+         "anim" : "idle",
+         "fps" : 24,
+         "indices" : [],
+         "loop" : false,
+         "name" : "BF idle dance determined sad",
+         "offsets" : [ -5, 0 ]
+      },
+      {
+         "anim" : "singUP",
+         "fps" : 24,
+         "indices" : [],
+         "loop" : false,
+         "name" : "BF NOTE UP deter",
+         "offsets" : [ 0, 10 ]
+      },
+      {
+         "anim" : "singRIGHT",
+         "fps" : 24,
+         "indices" : [],
+         "loop" : false,
+         "name" : "BF NOTE RIGHT deter",
+         "offsets" : [ -43, -7 ]
+      },
+      {
+         "anim" : "singLEFT",
+         "fps" : 24,
+         "indices" : [],
+         "loop" : false,
+         "name" : "BF NOTE LEFT deter",
+         "offsets" : [ 19, -9 ]
+      },
+      {
+         "anim" : "singDOWN",
+         "fps" : 24,
+         "indices" : [],
+         "loop" : false,
+         "name" : "BF NOTE DOWN deter",
+         "offsets" : [ 1, -53 ]
+      },
+      {
+         "anim" : "singUPmiss",
+         "fps" : 24,
+         "indices" : [],
+         "loop" : false,
+         "name" : "BF NOTE UP MISS deter",
+         "offsets" : [ -12, 9 ]
+      },
+      {
+         "anim" : "singRIGHTmiss",
+         "fps" : 24,
+         "indices" : [],
+         "loop" : false,
+         "name" : "BF NOTE RIGHT MISS deter",
+         "offsets" : [ -53, -8 ]
+      },
+      {
+         "anim" : "singLEFTmiss",
+         "fps" : 24,
+         "indices" : [],
+         "loop" : false,
+         "name" : "BF NOTE LEFT MISS deter",
+         "offsets" : [ 20, -8 ]
+      },
+      {
+         "anim" : "singDOWNmiss",
+         "fps" : 24,
+         "indices" : [],
+         "loop" : false,
+         "name" : "BF NOTE DOWN MISS deter",
+         "offsets" : [ 0, -53 ]
+      },
+      {
+         "anim" : "sadSmile",
+         "fps" : 24,
+         "indices" : [],
+         "loop" : true,
+         "name" : "BF idle dance copy",
+         "offsets" : [ -5, 0 ]
+      }
+   ],
+   "camera_position" : [ 0, -100 ],
+   "flip_x" : true,
+   "healthbar_colors" : [ 136, 183, 255 ],
+   "healthicon" : "softbf",
+   "image" : "characters/softie_crimmus3",
+   "no_antialiasing" : false,
+   "position" : [ 0, 350 ],
+   "scale" : 1,
+   "sing_duration" : 4
+}

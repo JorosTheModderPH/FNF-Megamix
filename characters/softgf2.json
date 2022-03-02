@@ -1,0 +1,107 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				50,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			],
+			"name": "Soft GF Idle 2"
+		},
+		{
+			"offsets": [
+				50,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Soft GF Idle 2"
+		},
+		{
+			"offsets": [
+				50,
+				88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pico Up note 2"
+		},
+		{
+			"offsets": [
+				-20,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Soft GF Body RIGHT 2"
+		},
+		{
+			"offsets": [
+				60,
+				4
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Soft GF Body LEFT 2",
+			"indices": []
+		},
+		{
+			"offsets": [
+				29,
+				-55
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Soft GF Body DOWN 2",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/softgf2",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "softgf",
+	"flip_x": true,
+	"healthbar_colors": [
+		234,
+		105,
+		125
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
