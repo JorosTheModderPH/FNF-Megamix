@@ -1,8 +1,8 @@
 {
-	"storyName": "Your New Week",
+	"storyName": "Thin Ice",
 	"difficulties": "easier,standard,flip",
 	"hideFreeplay": false,
-	"weekBackground": "",
+	"weekBackground": "christmas",
 	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
@@ -41,7 +41,7 @@
 		]
 	],
 	"weekCharacters": [
-		"parents",
+		"parents-christmas",
 		"bf",
 		"gf"
 	],

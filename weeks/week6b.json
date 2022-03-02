@@ -1,4 +1,16 @@
 {
+	"storyName": "Hating Sim:  Gold",
+	"difficulties": "easier,standard,flip",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Senpai B",
@@ -28,22 +40,10 @@
 			]
 		]
 	],
-	"hideFreeplay": false,
-	"weekBackground": "",
-	"difficulties": "easier,standard,flip",
 	"weekCharacters": [
-		"",
-		"",
-		""
+		"senpai",
+		"bf",
+		"gf"
 	],
-	"storyName": "Your New Week",
-	"weekName": "",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"hideStoryMode": false,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"weekName": "Week 6 B"
 }
