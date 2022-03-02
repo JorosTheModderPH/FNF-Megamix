@@ -1,0 +1,44 @@
+{
+	"storyName": "Alternative Nightmare",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "softstage1",
+	"weekBefore": "soft6",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"diplopia",
+			"ogbf",
+			[
+				49,
+				176,
+				209
+			]
+		],
+		[
+			"in-fighting",
+			"ogbf",
+			[
+				49,
+				176,
+				209
+			]
+		],
+		[
+			"envy",
+			"ogbf",
+			[
+				49,
+				176,
+				209
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "soft7"
+}

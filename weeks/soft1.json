@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["starcrossed", "softpico", [61, 90, 61]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "softstage",
+
+	"storyName": "Preface",
+	"weekBefore": "tutorial",
+	"weekName": "soft1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

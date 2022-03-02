@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["fresh-soft", "softdad", [97, 116, 148]],
+		["dadbattle-soft", "softdad", [97, 116, 148]],
+		["no-cigar", "softdad", [97, 116, 148]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "softstage",
+
+	"storyName": "Father Fairest",
+	"weekBefore": "soft1",
+	"weekName": "soft2",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

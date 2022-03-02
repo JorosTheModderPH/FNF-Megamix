@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["playdate", "softgf", [234, 105, 125]],
+		["stay", "softgf", [234, 105, 125]],
+		["its-complicated", "softgf", [234, 105, 125]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "softphilly",
+
+	"storyName": "A Childhood Friend",
+	"weekBefore": "soft3",
+	"weekName": "soft4",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

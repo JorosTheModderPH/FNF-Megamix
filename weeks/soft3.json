@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["spookeez-soft", "softspooky", [215, 154, 128]],
+		["south-soft", "softspooky", [215, 154, 128]],
+		["repressed", "softmonster", [90, 84, 79]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "softspooky",
+
+	"storyName": "Hair-Raising Hideout",
+	"weekBefore": "soft2",
+	"weekName": "soft3",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["eggnog-soft", "softparents", [97, 116, 148]],
+		["hope", "softparents", [97, 116, 148]],
+		["genesis", "softmonster", [90, 84, 79]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "softmall",
+
+	"storyName": "In The Present",
+	"weekBefore": "soft5",
+	"weekName": "soft6",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
