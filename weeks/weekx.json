@@ -1,0 +1,57 @@
+{
+	"storyName": "hextravaganza",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"hex",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Dunk",
+			"hex",
+			[
+				200,
+				200,
+				255
+			]
+		],
+		[
+			"Ram",
+			"hex",
+			[
+				200,
+				200,
+				255
+			]
+		],
+		[
+			"Hello World",
+			"hex",
+			[
+				200,
+				200,
+				255
+			]
+		],
+		[
+			"Glitcher",
+			"virus",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "HEXTRAVAGANZA"
+}

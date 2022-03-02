@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Z_Hex",
+	"image": "hex",
+	"position": [
+		93,
+		117
+	],
+	"scale": 0.5,
+	"confirm_anim": "M Dad Idle"
+}

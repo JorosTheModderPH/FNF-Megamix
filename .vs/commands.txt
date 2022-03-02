@@ -6,6 +6,6 @@ git commit -m "Title" -m "Description .........."
 
 git init -b main
 
-git add -p
+git add -A
 
 //This is nothing, just saving some commands in GitHub because I'm new.

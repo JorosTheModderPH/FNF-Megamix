@@ -1,0 +1,30 @@
+{
+	"storyName": "Hextra",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekx",
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"encore",
+			"hex",
+			[
+				200,
+				200,
+				255
+			]
+		]
+	],
+	"weekName": "Encore"
+}
