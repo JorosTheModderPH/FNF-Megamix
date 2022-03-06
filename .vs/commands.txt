@@ -1,5 +1,7 @@
 git push -u origin main
 
+git push --force
+
 git commit -am "commit message"
 
 git commit -m "Title" -m "Description .........."
