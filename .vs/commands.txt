@@ -4,8 +4,4 @@ git commit -am "commit message"
 
 git commit -m "Title" -m "Description .........."
 
-git init -b main
-
-git add -A
-
 //This is nothing, just saving some commands in GitHub because I'm new.
