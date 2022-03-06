@@ -15,21 +15,3 @@ function opponentNoteHit()
         setProperty('health', health- 0.023);
     end
 end
-
-function onBeatHit()
-    if curBeat == 19 then
-        triggerEvent('Play Animation', 'hey', 'bf')
-    end
-    
-    if curBeat == 25 then
-        triggerEvent('Play Animation', 'idle', 'bf')
-    end
-    
-    if curBeat == 35 then
-        triggerEvent('Play Animation', 'hey', 'bf')
-    end
-    
-    if curBeat == 40 then
-        triggerEvent('Play Animation', 'idle', 'bf')
-    end
-end
