@@ -1,0 +1,235 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ".."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok gf where in the world are we"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hmm by my guess we are on the amog us defeat screen"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "and with a black impostor"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "................."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "man u gonna show yourself like that"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i do not approve of ur \"role\""
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "illl let u explain"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "u gonna talk or ??"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "uhh u can speak upp....."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ayo speak up i dont want the people to go through more than 12 dialogue boxes"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i dont have all day talk man"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I SAID FRICKING TALKKKKKKKKKKKKKK"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blackimpostor",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok 3 things"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blackimpostor",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "one why is my dialogue box so trash . giving this a 0.000000000000000001/ out of 100 . "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blackimpostor",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "two coolswag"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blackimpostor",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "and three i've found you"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "whaaaaa"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blackimpostor",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "cmon bf you know the point "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wdym \"the point"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blackimpostor",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ive watched u battle the impostors , and a mech on all the maps . "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so u spyed on me "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "but how your in the defeat"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blackimpostor",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "we dont say the answer to that my dude."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blackimpostor",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ive been in this defeat like its the dark web"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blackimpostor",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ive forgot when my victory ever came to me and its because if your in here for 6 months straight with no one youll forget . "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blackimpostor",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "now will you rap battle me you stupid miku ripoff"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sounds like someone doesnt have their 2 feeble brains to bring a real burn . "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blackimpostor",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so your face makes onions cry?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blackimpostor",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well hey its not an opinion its a fact . "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "can we just rap battle . were legit on the 32nd dialogue and your wasting your time saying roasts from the internet . "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "blackimpostor",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fine ."
+		}
+	]
+}

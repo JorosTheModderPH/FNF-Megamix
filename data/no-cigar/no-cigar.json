@@ -1,9 +1,9 @@
 {
 	"song": {
 		"sectionLengths": [],
-		"player1": "bf",
+		"player1": "softbf",
 		"events": [],
-		"gfVersion": "gf",
+		"gfVersion": "softpico",
 		"notes": [
 			{
 				"sectionNotes": [

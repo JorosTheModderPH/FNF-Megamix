@@ -1,0 +1,85 @@
+{
+   "animations" : [
+      {
+         "anim" : "idle",
+         "fps" : 24,
+         "indices" : [],
+         "loop" : false,
+         "name" : "BF idle dance",
+         "offsets" : [ -5, 20 ]
+      },
+      {
+         "anim" : "singUP",
+         "fps" : 24,
+         "indices" : [],
+         "loop" : false,
+         "name" : "BF NOTE UP0",
+         "offsets" : [ 0, 25 ]
+      },
+      {
+         "anim" : "singRIGHT",
+         "fps" : 24,
+         "indices" : [],
+         "loop" : false,
+         "name" : "BF NOTE RIGHT0",
+         "offsets" : [ -43, 13 ]
+      },
+      {
+         "anim" : "singLEFT",
+         "fps" : 24,
+         "indices" : [],
+         "loop" : false,
+         "name" : "BF NOTE LEFT0",
+         "offsets" : [ 22, 12 ]
+      },
+      {
+         "anim" : "singDOWN",
+         "fps" : 24,
+         "indices" : [],
+         "loop" : false,
+         "name" : "BF NOTE DOWN0",
+         "offsets" : [ 12, -35 ]
+      },
+      {
+         "anim" : "singUPmiss",
+         "fps" : 24,
+         "indices" : [],
+         "loop" : false,
+         "name" : "BF NOTE UP MISS",
+         "offsets" : [ -6, 34 ]
+      },
+      {
+         "anim" : "singRIGHTmiss",
+         "fps" : 24,
+         "indices" : [],
+         "loop" : false,
+         "name" : "BF NOTE RIGHT MISS",
+         "offsets" : [ -41, 12 ]
+      },
+      {
+         "anim" : "singLEFTmiss",
+         "fps" : 24,
+         "indices" : [],
+         "loop" : false,
+         "name" : "BF NOTE LEFT MISS",
+         "offsets" : [ 22, 14 ]
+      },
+      {
+         "anim" : "singDOWNmiss",
+         "fps" : 24,
+         "indices" : [],
+         "loop" : false,
+         "name" : "BF NOTE DOWN MISS",
+         "offsets" : [ 0, -33 ]
+      }
+   ],
+   "camera_position" : [ 0, 0 ],
+   "flip_x" : true,
+   "healthbar_colors" : [ 136, 183, 255 ],
+   "healthicon" : "softbf",
+   "image" : "characters/softieblowing",
+   "no_antialiasing" : false,
+   "position" : [ 0, 350 ],
+   "scale" : 1,
+   "sing_duration" : 4
+}

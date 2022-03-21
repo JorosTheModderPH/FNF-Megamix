@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="guesta.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry-end0000" x="0" y="0" width="692" height="592" pivotX="-19.95" pivotY="-7.65"/>
+	<SubTexture name="angry-loop0000" x="692" y="0" width="700" height="592" pivotX="-25.6" pivotY="-7.65"/>
+	<SubTexture name="angry-loop0001" x="692" y="0" width="700" height="592"/>
+	<SubTexture name="angry-loop0002" x="1392" y="0" width="696" height="592" frameX="0" frameY="0" frameWidth="700" frameHeight="592"/>
+	<SubTexture name="angry-loop0003" x="1392" y="0" width="696" height="592" frameX="0" frameY="0" frameWidth="700" frameHeight="592"/>
+	<SubTexture name="angry-loop0004" x="2088" y="0" width="691" height="591" frameX="-1" frameY="-1" frameWidth="700" frameHeight="592"/>
+	<SubTexture name="angry-loop0005" x="2088" y="0" width="691" height="591" frameX="-1" frameY="-1" frameWidth="700" frameHeight="592"/>
+	<SubTexture name="getready-end0000" x="2779" y="0" width="449" height="589" pivotX="-10.45" pivotY="-0.85"/>
+	<SubTexture name="getready-loop0000" x="3228" y="0" width="445" height="594" pivotX="11" pivotY="3.15" frameX="0" frameY="0" frameWidth="449" frameHeight="594"/>
+	<SubTexture name="getready-loop0001" x="3228" y="0" width="445" height="594" frameX="0" frameY="0" frameWidth="449" frameHeight="594"/>
+	<SubTexture name="getready-loop0002" x="0" y="594" width="446" height="591" frameX="-1" frameY="-3" frameWidth="449" frameHeight="594"/>
+	<SubTexture name="getready-loop0003" x="0" y="594" width="446" height="591" frameX="-1" frameY="-3" frameWidth="449" frameHeight="594"/>
+	<SubTexture name="getready-loop0004" x="446" y="594" width="448" height="589" frameX="-1" frameY="-5" frameWidth="449" frameHeight="594"/>
+	<SubTexture name="getready-loop0005" x="446" y="594" width="448" height="589" frameX="-1" frameY="-5" frameWidth="449" frameHeight="594"/>
+	<SubTexture name="neutral-end0000" x="894" y="594" width="406" height="589" pivotX="-1.9" pivotY="-0.85"/>
+	<SubTexture name="neutral-loop0000" x="1300" y="594" width="402" height="595" pivotX="-56.75" pivotY="4.45" frameX="0" frameY="0" frameWidth="409" frameHeight="595"/>
+	<SubTexture name="neutral-loop0001" x="1300" y="594" width="402" height="595" frameX="0" frameY="0" frameWidth="409" frameHeight="595"/>
+	<SubTexture name="neutral-loop0002" x="1702" y="594" width="403" height="591" frameX="-2" frameY="-4" frameWidth="409" frameHeight="595"/>
+	<SubTexture name="neutral-loop0003" x="1702" y="594" width="403" height="591" frameX="-2" frameY="-4" frameWidth="409" frameHeight="595"/>
+	<SubTexture name="neutral-loop0004" x="2105" y="594" width="405" height="589" frameX="-4" frameY="-6" frameWidth="409" frameHeight="595"/>
+	<SubTexture name="neutral-loop0005" x="2105" y="594" width="405" height="589" frameX="-4" frameY="-6" frameWidth="409" frameHeight="595"/>
+</TextureAtlas>

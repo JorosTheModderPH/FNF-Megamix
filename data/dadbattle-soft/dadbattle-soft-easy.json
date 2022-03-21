@@ -620,7 +620,7 @@
       ],
       "player1" : "softbf",
       "player2" : "dad2",
-      "player3" : null,
+      "player3" : "softpico",
       "song" : "dadbattle-soft",
       "speed" : 1.3,
       "stage" : "softstage",

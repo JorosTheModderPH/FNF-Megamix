@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "holy-mami-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "As the holy maiden of kamihama i must liberate all magical girls from their fate"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "beep beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "holy-mami-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i will not tolerate anyone who protest the magius plans why do you protest freedom from our fate as magical girls?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "holy-mami-pissed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ill eliminate anyone in our way, starting with you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "holy-mami-pissed",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yoo are already troublesome to our mission if you dare hinder the truth of magical girls"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "homura-hurt",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Damn it, i cannot let them know... especially Madoka. i need to stop whatever his happening to her."
+		}
+	]
+}

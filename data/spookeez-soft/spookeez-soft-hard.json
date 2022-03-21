@@ -2,7 +2,7 @@
    "song" : {
       "bpm" : 150,
       "events" : [],
-      "gfVersion" : "gf",
+      "gfVersion" : "softpico",
       "mania" : 3,
       "needsVoices" : true,
       "notes" : [

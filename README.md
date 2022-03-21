@@ -24,3 +24,5 @@ Mod List 1.0 :
  (x) Kapi
 
  (x) Tord Red Fury
+
+ (-) Mami Mod in progress

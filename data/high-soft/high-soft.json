@@ -2,7 +2,7 @@
    "song" : {
       "bpm" : 125,
       "events" : [],
-      "gfVersion" : "gf-car",
+      "gfVersion" : "softpico-car",
       "mania" : 3,
       "needsVoices" : true,
       "notes" : [

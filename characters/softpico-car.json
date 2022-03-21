@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "soft_pico hair blow CAR"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/soft_pico_blow_car",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": true,
+	"healthbar_colors": [
+		61,
+		90,
+		61
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

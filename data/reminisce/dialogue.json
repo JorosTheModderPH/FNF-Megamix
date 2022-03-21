@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "mami-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I enjoyed the little duet we had, but what where those?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mami-confused",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Thoughts? Memories? Visions?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mami-thinking",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no, it cant be any one of those.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mami-thinking",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "The better cuestion to ask would be, why did i see them at all?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mami-confused",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What kind manipulative magic am i dealing with here?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mami-confused",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I need to stick around a little longer so that i can figure this out."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mami-happy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, that was nice change of pace for once, its not every day you get to sing your heart out!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mami-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Say, do you want to do another? then after that we can all have tea over at my place."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		}
+	]
+}

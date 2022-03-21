@@ -2,7 +2,7 @@
    "song" : {
       "bpm" : 180,
       "events" : [],
-      "gfVersion" : "gf",
+      "gfVersion" : "softpico",
       "mania" : 3,
       "needsVoices" : true,
       "notes" : [
@@ -723,7 +723,7 @@
       ],
       "player1" : "softbf",
       "player2" : "dad2",
-      "player3" : null,
+      "player3" : "softpico",
       "song" : "dadbattle-soft",
       "speed" : 2.3,
       "stage" : "softstage",

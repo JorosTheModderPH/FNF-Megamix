@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				740,
+				-181
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [],
+			"name": "animegirl"
+		},
+		{
+			"offsets": [
+				740,
+				-181
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [],
+			"name": "animegirl"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/women",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

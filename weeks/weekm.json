@@ -1,0 +1,49 @@
+{
+	"storyName": "vs madoka mami",
+	"hideFreeplay": false,
+	"weekBackground": "mamiback",
+	"difficulties": "Easy,Normal,Hard,Holy",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"gg",
+		"aa",
+		"nou"
+	],
+	"songs": [
+		[
+			"connect",
+			"mami-week",
+			[
+				206,
+				173,
+				93
+			]
+		],
+		[
+			"reminisce",
+			"mami-week",
+			[
+				206,
+				173,
+				93
+			]
+		],
+		[
+			"salvation",
+			"holymami-week",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "weekm"
+}

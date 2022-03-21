@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Errie",
+			"spooky",
+			[
+				34,
+				51,
+				68
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "spooky",
+	"difficulties": "easy,normal,hard,bf",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "",
+	"weekName": "",
+	"freeplayColor": [
+		34,
+		51,
+		68
+	],
+	"hideStoryMode": true,
+	"weekBefore": "",
+	"startUnlocked": true
+}

@@ -1,6 +1,6 @@
 {
-	"name": "Name",
-	"description": "Description",
-	"restart":true,
+	"name": "FNF Megamix 1.0",
+	"description": "too lazy to put description",
+	"restart":false,
 	"color": [170, 0, 255]
 }

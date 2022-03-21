@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Could this be a familiar? I never seen anything like it, yet it emits a strange aura.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mami-dialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "beep bop bep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "It seems like it wants us to sing. All right then ill do so!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mami-happy"
+		},
+		{
+			"expression": "talk",
+			"text": "It will be a nice break from witch-hunting",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "mami-dialogue"
+		},
+		{
+			"expression": "talk",
+			"text": "Be careful, we dont know what were dealing with...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "homura"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mami-thinking",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "it be fine, im a veteran and i have you guys"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mami-happy",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "whats the harm in a little fun?"
+		}
+	]
+}
